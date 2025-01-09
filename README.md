@@ -1,4 +1,6 @@
 ## Hi there 👋
+- I'm currently working on assignments
+- Fun fact: I can recite the English alphabet backward from memory
 
 <!--
 **Seth-Browning/Seth-Browning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
